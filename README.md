@@ -1,2 +1,0 @@
-# expenses_tracker
-vityarthi
